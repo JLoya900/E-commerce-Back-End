@@ -25,5 +25,5 @@ THEN I am able to successfully create, update, and delete data in my database
 The following animation shows the application's GET, POST, PUT, and DELETE routes for TAGS being tested in Insomnia Core:
 
 ![categories](https://user-images.githubusercontent.com/118794860/235281366-4898aed2-6785-4aa7-9305-2d1738dd696c.gif)
-![image](https://github.com/JLoya900/E-commerce-Back-End/assets/118794860/9a62ce8e-db60-4a97-877c-00d76df33dfc)
 
+![get-all-demo](https://github.com/JLoya900/E-commerce-Back-End/assets/118794860/f64f6b79-47ce-4396-8fb0-1b120adb013e)
