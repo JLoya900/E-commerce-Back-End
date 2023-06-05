@@ -22,9 +22,8 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 ## Walkthrough Video
-```
 https://watch.screencastify.com/v/84trnTRrLiwbILd39m49
-```
+
 ## Mock Up
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 ![get-all-demo](https://github.com/JLoya900/E-commerce-Back-End/assets/118794860/f64f6b79-47ce-4396-8fb0-1b120adb013e)
